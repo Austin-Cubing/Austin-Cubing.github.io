@@ -1,5 +1,1 @@
-layout: page
-title: "index"
-permalink: /index
-
-test
+https://discord.gg/N6ApQ2KASX
