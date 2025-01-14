@@ -18,4 +18,4 @@ We maintain dozens of cubes spanning [powered vintage cubes](https://cubecobra.c
 
 Yes!
 
-<iframe src="https://138.201.91.186:5001" width="100%" height="600" style="border: none;"></iframe>
+<iframe src="https://cube.txdsp.net" width="100%" height="600" style="border: none;"></iframe>
