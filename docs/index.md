@@ -4,8 +4,6 @@
 
 We organize cube drafts weekly at local games stores in the Austin TX area, as well as host discussions on cube design, custom cards, and more.
 
-<iframe src="http://138.201.91.186:5001" width="100%" height="600" style="border: none;"></iframe>
-
 # FAQ
 
 ***When and where are cube events held?***
@@ -20,3 +18,4 @@ We maintain dozens of cubes spanning [powered vintage cubes](https://cubecobra.c
 
 Yes!
 
+<iframe src="https://138.201.91.186:5001" width="100%" height="600" style="border: none;"></iframe>
